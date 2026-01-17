@@ -1,4 +1,4 @@
-# 🤖👨‍💻 Rafael Slusarz
+# 🤖👨‍💻 Rafael Oliveira 
 **Engenheiro de Testes Software**
 
 👋 Sobre mim
@@ -60,17 +60,6 @@ Trabalho com criação de cenários de teste, automação E2E, testes funcionais
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
-
-
-
-<img 
-    align="left" 
-    alt="Putty"
-    title="Putty" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" 
-/>
           
 <img 
   align="left" 
@@ -116,15 +105,6 @@ Trabalho com criação de cenários de teste, automação E2E, testes funcionais
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
 />
-                     
- <img
-    align="left" 
-    alt="Jira"
-    title="Jira" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" 
-/>
 
  <img 
     align="left" 
@@ -134,8 +114,7 @@ Trabalho com criação de cenários de teste, automação E2E, testes funcionais
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"
  />
-          
-              
+                     
 
 <img 
     align="left" 
@@ -182,5 +161,4 @@ Trabalho com criação de cenários de teste, automação E2E, testes funcionais
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<br/>
 <br/>
